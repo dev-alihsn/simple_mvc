@@ -1,6 +1,6 @@
 {
-    "name": "your-vendor-name/package-name",
-    "description": "A short description of what your package does",
+    "name": "simple mvc",
+    "description": "simple php project with mvc structure",
     "require": {
         "php": ">=7.4",
         "another-vendor/package": "1.*"
