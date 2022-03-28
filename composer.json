@@ -1,5 +1,5 @@
 {
-    "name": "alihassn/simple_mvc",
+    "name": "ali/simplemvc",
     "description": "simple php project with mvc structure",
     "require": {
         "php": ">=7.4",
