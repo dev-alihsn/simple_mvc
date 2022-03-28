@@ -1,5 +1,5 @@
 {
-    "name": "simple mvc",
+    "name": "simple_mvc",
     "description": "simple php project with mvc structure",
     "require": {
         "php": ">=7.4",
