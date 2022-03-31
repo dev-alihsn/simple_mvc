@@ -2,7 +2,7 @@
 simple php project with mvc structure
 
 ## how to use?
-just run this command on the composer
-and edit the config file
+just clone the project and open terminal in the project folder and type composer install
+and edit the config file to add ur db info and ur virtualhost url
 
 enjoy :)
